@@ -1,4 +1,4 @@
 # shreayan98c.github.io
-My personal website resume.
+My personal website cum resume.
 
-Contains my profession blog.
+Contains my blog, projects and much more.
