@@ -281,6 +281,51 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+/* ------------------------------------------------------------------ */
+/* e. Research Section
+/* ------------------------------------------------------------------ */
+
+#research {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#research a, #research a:visited  { color: #11ABB0; }
+#research a:hover, #research a:focus { color: #313131; }
+
+#research h1 {
+   font: 18px/24px 'opensans-bold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#research h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#research h3 {
+   font: 25px/30px 'opensans-bold', sans-serif;
+}
+
+#research .header-col { padding-top: 9px; }
+#research .main-col { padding-right: 10%; }
+
+#research .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#research .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#research .date {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 6px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
